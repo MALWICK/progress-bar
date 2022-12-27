@@ -10,7 +10,7 @@
 
 ## About
 
-This project provide information on a progress bar usually found in websites and mobile apps .
+This project provide information on a progress bar usually found in sites and mobile apps .
 
 ## BUILT WITH
 
