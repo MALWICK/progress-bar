@@ -4,7 +4,6 @@
 
 ![progress_bar](/asset/images/Screenshot%20from%202022-12-27%2005-21-26.png)
 
-
 ## AUTHOR
 
     This project was made by "Humphrey"
@@ -32,10 +31,10 @@ This project provide information on a progress bar usually found in websites and
 ## CLONE PROJECT
 
     - To get a local copy up and running follow these simple example steps.
-    - Clone this repository with `https://github.com/MALWICK/marriage-page` using your terminal or command line.
+    - Clone this repository with `https://github.com/MALWICK/progress-bar` using your terminal or command line.
     - Change to the project directory by entering: - $ `cd cv ` in the terminal.
 
 ## CONTRIBUTION
 
     Contributions, issues, and feature requests are welcome!
-    Feel free to check the [issues page](https://github.com/MALWICK/marriage-page)
+    Feel free to check the [issues page](https://github.com/MALWICK/progress-bar)
